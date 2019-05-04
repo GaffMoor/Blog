@@ -42,4 +42,6 @@ Route::post('/contact', function(){
 
 Route::resource('computer', 'ComputerController');
 
+// sdkjcnsdlnc askjcbas
+
 
